@@ -2,6 +2,8 @@
 ## Overview
 GitHub Profiles Finder is a simple web application that allows users to search and find GitHub profiles easily. The application is built using HTML, CSS, and JavaScript, providing a seamless and responsive user experience.
 
+## live demo [https://shreejithns.github.io/github-profiles/]
+
 ## Features
 1. Search GitHub Profiles: Enter a GitHub username in the search bar to find and display the corresponding user profile.
 

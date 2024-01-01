@@ -30,3 +30,4 @@ Enter a GitHub username in the search bar and click the "Search" button.
 Explore the GitHub profile details and repository list for the entered username.
 
 ## Screenshots
+<img src="shree.jpg">
